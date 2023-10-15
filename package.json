@@ -2,7 +2,7 @@
   "name": "client",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mohamedfawziabdellaoui.github.io/T-shirt_editor/",
+  "homepage": "https://mohamedfawziabdellaoui.github.io/T-shirt_editor",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
